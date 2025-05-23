@@ -1,0 +1,21 @@
+Python Script to Print Name and Greeting
+
+print("Hello, my name is Siddharth!")
+
+
+Running Python Code in the Interpreter
+
+>>> print("Hello, my name is Siddharth!")
+Hello, my name is Siddharth!
+
+
+Script with Comments Explaining Each Part
+
+# This script prints a greeting and the user's name
+
+# Print a greeting message and name
+print("Hello, my name is Siddharth")
+
+#print : Prints the given value
+#(): Take the value for the function
+#"": Required to input strings
